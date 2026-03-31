@@ -1,4 +1,4 @@
-# Campus Course & Records Manager (CCRM)
+# Record Manager For University Campus (RMUC)
 
 A simple Java console application for managing students, courses, and enrollments.
 
